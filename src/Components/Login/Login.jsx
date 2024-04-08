@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import Navbar from "../Navbar/Navbar";
 
 const Login = () => {
@@ -65,7 +66,9 @@ const Login = () => {
 	</div>
 	<p className="text-xs text-center sm:px-6 dark:text-gray-600">Don't have an account?
 		<button>
-            <a rel="noopener noreferrer" href="#" className="underline dark:text-gray-800">Sign up</a>
+          <Link to="/register">
+          <a rel="noopener noreferrer" href="#" className="underline dark:text-gray-800">Register</a>
+          </Link>  
             </button>
 	</p>
 </div>
