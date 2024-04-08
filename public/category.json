@@ -2,7 +2,7 @@
       {
         "id": 1,
         "relevant_image": "image_url_here",
-        "estate_title": "Example Single-Family Home",
+        "estate_title": "Single-Family Home",
         "segment_name": "Single-Family",
         "price": "$500,000",
         "status": "Sale",
@@ -13,7 +13,7 @@
       {
         "id": 2,
         "relevant_image": "image_url_here",
-        "estate_title": "Example Townhouse",
+        "estate_title": "Townhouse",
         "segment_name": "Townhouse",
         "price": "$350,000",
         "status": "Sale",
@@ -24,7 +24,7 @@
       {
         "id": 3,
         "relevant_image": "image_url_here",
-        "estate_title": "Example Apartment",
+        "estate_title": "Apartment",
         "segment_name": "Apartment",
         "price": "$1,500/month",
         "status": "Rent",
@@ -35,7 +35,7 @@
       {
         "id": 4,
         "relevant_image": "image_url_here",
-        "estate_title": "Example Student Housing",
+        "estate_title": "Student Housing",
         "segment_name": "Student Housing",
         "price": "$800/month (per room)",
         "status": "Rent",
@@ -46,7 +46,7 @@
       {
         "id": 5,
         "relevant_image": "image_url_here",
-        "estate_title": "Example Senior Living Community",
+        "estate_title": "Living Community",
         "segment_name": "Senior Living Community",
         "price": "$3,000/month",
         "status": "Rent",
